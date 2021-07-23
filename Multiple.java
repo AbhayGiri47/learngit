@@ -1,2 +1,2 @@
 Welcome to Multiple file
-welcome to Git
+welcome to Github
